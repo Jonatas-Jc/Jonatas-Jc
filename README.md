@@ -1,9 +1,19 @@
 - 👋 Hi, I’m Jonatas Silva De Almeida Cavalcante.
 - 👀 I’m interested in grow up in the carreer. 
-- 🌱 I’m currently learning front-end skills - "Html, CSS, Javascript..."
-- 💞️ I’m looking to collaborate on challenges of programming companies. 
-- 📫 How to reach me... My instagram is the @doisjj and my Linkedin is https://www.linkedin.com/in/jonatas-jc/
+- 🌱 I’m currently learning front-end skills:
 
+  - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo">
+  - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo">
+  
+- 💞️ I’m looking to collaborate on challenges of programming companies. 
+- 📫 How to reach me:
+
+- <a href="instagram.com/doisjj"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+- <a href="https://www.linkedin.com/in/jonatas-jc"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonatas-jc)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonatas-jc&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 - See you, guys! 
 
 <!---
